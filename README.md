@@ -4,9 +4,13 @@
 🌟 About Me
 
 🎓 Economist
+
 💼 Data Analyst with a focus on socio-economic development
+
 💡 Passionate about transforming raw data into impactful insights
+
 🧠 Currently exploring: Machine Learning, Data Science & AI
+
 🤝 Always open to collaboration on research and real-world data projects
 
 How to reach me

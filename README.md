@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mehwish Umar</h1>
-<h3 align="center"> 👩‍🔬 Economics Researcher |📊 Data Analyst | 🤖 Aspiring Data Scientist (AI/ML)</h3>
+<h1 align="center">Hi, I'm Mehwish Umar</h1>
+<h3 align="center">  Economics Researcher | Data Analyst |  Aspiring Data Scientist (AI/ML)</h3>
 
 ### 🌟 About Me
 

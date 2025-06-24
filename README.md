@@ -8,7 +8,9 @@
 💡 Passionate about transforming raw data into impactful insights
 🧠 Currently exploring: Machine Learning, Data Science & AI
 🤝 Always open to collaboration on research and real-world data projects
+
 📫 Email: mehwishayesha631@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/mehwishumar
 
 🛠️ **Tech Stack & Tools**

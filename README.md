@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehwish Umar</h1>
 <h3 align="center"> 👩‍🔬 Economics Researcher |📊 Data Analyst | 🤖 Aspiring Data Scientist (AI/ML)</h3>
 
-### 🌟 **About Me
+### 🌟 About Me
 
 🎓 I'm an **Economist** with a strong foundation in theoretical and applied economics, including:
 
@@ -38,7 +38,7 @@
 </p>
 
 
-### 🛠️ **Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 
 Languages:      Python, SQL  

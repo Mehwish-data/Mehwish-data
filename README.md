@@ -7,7 +7,7 @@
 
 - Advanced Microeconomics  
 - Advanced Macroeconomics  
-- Econometric Methods  
+- Econometric Methods(I&II)  
 - Experimental Economics  
 - Islamic Economics  
 - Development Economics  
@@ -38,9 +38,6 @@ Connect with me:
   </a>
 </p>
 
-https://www.linkedin.com/in/mehwishumar/
-
-https://www.kaggle.com/mehwishumar
 
 🛠️ **Tech Stack & Tools**
 
@@ -48,4 +45,7 @@ https://www.kaggle.com/mehwishumar
 Languages:      Python, SQL, R  
 Data Tools:     Power BI, Tableau, Excel, SPSS,  
 Libraries:      Pandas, NumPy, Matplotlib, Seaborn  
-Other Skills:   Data Cleaning, Visualization, Regression, Hypothesis Testing 
+Other Skills:   Data Cleaning, Visualization, Regression, Hypothesis Testing
+
+📈 GitHub Stats 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mehwish-data&show_icons=true&theme=default" alt="Mehwish's GitHub Stats"/> </p> `

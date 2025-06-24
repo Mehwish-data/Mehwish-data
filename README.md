@@ -9,9 +9,15 @@
 🧠 Currently exploring: Machine Learning, Data Science & AI
 🤝 Always open to collaboration on research and real-world data projects
 
-📫 Email: mehwishayesha631@gmail.com
+How to reach me
 
-🔗 LinkedIn: linkedin.com/in/mehwishumar
+Email: mehwishayesha631@gmail.com
+
+Connect with me:
+
+https://www.linkedin.com/in/mehwishumar/
+
+https://www.kaggle.com/mehwishumar
 
 🛠️ **Tech Stack & Tools**
 

@@ -3,7 +3,16 @@
 
 🌟 About Me
 
-🎓 Economist
+🎓 I'm an Economist with a strong foundation in theoretical and applied economics, including:
+
+- Advanced Microeconomics  
+- Advanced Macroeconomics  
+- Econometric Methods  
+- Experimental Economics  
+- Islamic Economics  
+- Development Economics  
+- Research Methodology in Economics  
+
 
 💼 Data Analyst with a focus on socio-economic development
 
@@ -13,11 +22,21 @@
 
 🤝 Always open to collaboration on research and real-world data projects
 
-How to reach me
+📬 How to reach me
 
-Email: mehwishayesha631@gmail.com
+📧 Email: mehwishayesha631@gmail.com
 
 Connect with me:
+
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mehwishumar/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.kaggle.com/mehwishumar" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" alt="Kaggle">
+  </a>
+</p>
 
 https://www.linkedin.com/in/mehwishumar/
 

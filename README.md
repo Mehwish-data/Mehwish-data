@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mehwish Umar</h1>
 <h3 align="center"> 👩‍🔬 Economics Researcher |📊 Data Analyst | 🤖 Aspiring Data Scientist (AI/ML)</h3>
 
-### 🌟 **About Me**
+### 🌟 **About Me
 
-🎓 I'm an Economist with a strong foundation in theoretical and applied economics, including:
+🎓 I'm an **Economist** with a strong foundation in theoretical and applied economics, including:
 
 - Advanced Microeconomics  
 - Advanced Macroeconomics  
@@ -14,7 +14,7 @@
 - Research Methodology in Economics  
 
 
-💼 Data Analyst with a focus on socio-economic development
+💼 **Data Analyst** with a focus on socio-economic development
 
 💡 Passionate about transforming raw data into impactful insights
 
@@ -22,11 +22,11 @@
 
 🤝 Always open to collaboration on research and real-world data projects
 
-### 📬 How to reach me**
+### 📬 How to reach me
 
 📧 Email: mehwishayesha631@gmail.com
 
-### Connect with me:**
+### Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mehwishumar/" target="_blank">
@@ -38,10 +38,10 @@
 </p>
 
 
-🛠️ **Tech Stack & Tools**
+### 🛠️ **Tech Stack & Tools
 
 
-Languages:      Python, SQL, R  
+Languages:      Python, SQL  
 Data Tools:     Power BI, Tableau, Excel, SPSS,  
 Libraries:      Pandas, NumPy, Matplotlib, Seaborn  
 Other Skills:   Data Cleaning, Visualization, Regression, Hypothesis Testing

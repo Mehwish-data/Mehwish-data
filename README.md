@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/1863ac9e-64ff-4e13-8844-d4c0a7c49e3e)## 
 <h1 align="center">Hi 👋, I'm Mehwish Umar</h1>
 <h3 align="center"> 👩‍🔬 Economics Researcher |📊 Data Analyst | 🤖 Aspiring Data Scientist (AI/ML)</h3>
 

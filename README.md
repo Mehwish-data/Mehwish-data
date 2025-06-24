@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehwish Umar</h1>
 <h3 align="center"> 👩‍🔬 Economics Researcher |📊 Data Analyst | 🤖 Aspiring Data Scientist (AI/ML)</h3>
 
-🌟 About Me
+### 🌟 **About Me**
 
 🎓 I'm an Economist with a strong foundation in theoretical and applied economics, including:
 
@@ -22,12 +22,11 @@
 
 🤝 Always open to collaboration on research and real-world data projects
 
-📬 How to reach me
+### 📬 How to reach me**
 
 📧 Email: mehwishayesha631@gmail.com
 
-Connect with me:
-
+### Connect with me:**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mehwishumar/" target="_blank">

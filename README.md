@@ -1,16 +1,21 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/1863ac9e-64ff-4e13-8844-d4c0a7c49e3e)## 
+<h1 align="center">Hi 👋, I'm Mehwish Umar</h1>
+<h3 align="center"> 👩‍🔬 Economics Researcher |📊 Data Analyst | 🤖 Aspiring Data Scientist (AI/ML)</h3>
 
-<!--
-**Mehwish-data/Mehwish-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me
 
-Here are some ideas to get you started:
+🎓 Economist
+💼 Data Analyst with a focus on socio-economic development
+💡 Passionate about transforming raw data into impactful insights
+🧠 Currently exploring: Machine Learning, Data Science & AI
+🤝 Always open to collaboration on research and real-world data projects
+📫 Email: mehwishayesha631@gmail.com
+🔗 LinkedIn: linkedin.com/in/mehwishumar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack & Tools**
+
+```yaml
+Languages:      Python, SQL, R  
+Data Tools:     Power BI, Tableau, Excel, SPSS,  
+Libraries:      Pandas, NumPy, Matplotlib, Seaborn  
+Other Skills:   Data Cleaning, Visualization, Regression, Hypothesis Testing 

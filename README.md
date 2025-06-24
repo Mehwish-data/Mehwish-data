@@ -41,7 +41,7 @@ Connect with me:
 
 🛠️ **Tech Stack & Tools**
 
-```yaml
+
 Languages:      Python, SQL, R  
 Data Tools:     Power BI, Tableau, Excel, SPSS,  
 Libraries:      Pandas, NumPy, Matplotlib, Seaborn  

@@ -32,10 +32,7 @@
   <a href="https://www.linkedin.com/in/mehwishumar/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.kaggle.com/mehwishumar" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" alt="Kaggle">
-  </a>
-</p>
+
 
 
 ### 🛠️ Tech Stack & Tools

@@ -1,57 +1,121 @@
-<h1 align="center">Hi, I'm Mehwish Umar</h1>
-<h3 align="center">  Economics Researcher | Data Analyst |  Aspiring Data Scientist (AI/ML)</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi, I'm Mehwish Umar 👋</h1>
+<h3 align="center">AI/ML Engineer | Data Analyst | Economics Researcher | Aspiring Data Scientist</h3>
+
+<p align="center">
+  <a href="mailto:mehwishayesha631@gmail.com">
+    <img src="https://img.shields.io/badge/Email-MehwishAyesha631%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mehwishumar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mehwish%20Umar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Mehwish-data" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Mehwish--data-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
 
 ### 🌟 About Me
 
-🎓 I'm an **Economist** with a strong foundation in theoretical and applied economics, including:
+🎓 I’m an **AI Engineer** and **Economist** passionate about merging *artificial intelligence* with *economic research* to create data-driven solutions for real-world problems.
 
-- Advanced Microeconomics  
-- Advanced Macroeconomics  
-- Econometric Methods(I&II)  
-- Experimental Economics  
-- Islamic Economics  
-- Development Economics  
-- Research Methodology in Economics  
+💼 I specialize in:
+- **Machine Learning & Generative AI**
+- **Natural Language Processing (NLP)**
+- **Data Science & Econometrics**
+- **MLOps and End-to-End AI Systems**
 
+💡 I enjoy turning complex data into insights and building intelligent systems that contribute to **social and economic development**.
 
-💼 **Data Analyst** with a focus on socio-economic development
+🧠 Currently exploring **LangChain**, **LangGraph**, **Crew AI**, and **Agentic AI Systems**  
+🤝 Open to collaborations in **AI**, **data science**, and **research-based analytics**
 
-💡 Passionate about transforming raw data into impactful insights
+---
 
-🧠 Currently exploring: Machine Learning, Data Science & AI
+### 🚀 Featured Projects
 
-🤝 Always open to collaboration on research and real-world data projects
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🧠 [**AI-Powered Multi-Assistant Bot**](https://github.com/Mehwish-data/AI_Mutli_Assistant_ChatBot) | RAG-based multi-source AI assistant with full AWS deployment | LangChain, FastAPI, Groq Cloud, Docker, AWS EC2 |
+| 🌿 [**AI Sustainability Agent**](https://github.com/Mehwish-data/AI-Sustainability-agent) | Voice-enabled agent estimating CO₂ emissions & giving sustainability advice | Python, Ollama, Whisper, Climatiq API, Pandas |
+| 🛍️ [**E-Commerce Churn Prediction**](https://github.com/Mehwish-data/E-Commerce-Churn-Analysis-) | ML pipeline predicting customer churn using behavioral data | Python, Scikit-learn, NumPy, Matplotlib, Seaborn |
+| 📰 [**Fake News Detection (NLP)**](https://github.com/Mehwish-data/Fake-news-detection) | Detects misinformation using NLP-based text classification | TF-IDF, NLTK, Scikit-learn, Regex, WordCloud |
 
-### 📬 How to reach me
+---
 
-📧 Email: mehwishayesha631@gmail.com
+### 📚 Research & Publications
 
-### Connect with me
+📘 **From Digital Work to Social Change:** Freelancing, Digital Skills & Empowerment in South Punjab  
+- Conducted econometric research developing **Empowerment & Well-Being Indexes**  
+- Presented at the **38th Annual General Meeting – Pakistan Society of Development Economists (PSDE, 2025)**  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mehwishumar/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+🧩 Focus Areas: Freelancing • Economic Empowerment • Digital Labor • Gender & Development Economics
 
-
+---
 
 ### 🛠️ Tech Stack & Tools
 
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
-Languages:      Python, SQL  
-Data Tools:     Power BI, Tableau, Excel, SPSS,  
-Libraries:      Pandas, NumPy, Matplotlib, Seaborn  
-Other Skills:   Data Cleaning, Visualization, Regression, Hypothesis Testing
+**AI/ML Libraries**  
+![LangChain](https://img.shields.io/badge/LangChain-2C2C32?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-5C2D91?style=flat)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 
+**Data Science Tools**  
+Power BI | Tableau | Excel | STATA | SPSS  
 
-### 📈 GitHub Stats
+**Special Interests:** Generative AI · Agentic Systems · Econometrics · Data Visualization
+
+---
+
+### 🧾 Certifications
+
+- 🧩 **AI Voice Agents for Production – DeepLearning.AI (2025)**  
+- 🧩 **AI Agents in LangGraph – Coursera x DeepLearning.AI (2025)**  
+- 🧩 **Master LangChain with No-Code Tools – Flowise & LangFlow (2025)**  
+- 🧩 **Data Science & Analytics – HP LIFE Foundation (2025)**  
+- 🧩 **Workshop: Time Series & Panel Data Analysis using STATA (2025)**  
+
+---
+
+### 🏆 Achievements
+
+🏅 **Paper Presenter** – Pakistan Society of Development Economists (PSDE 2025)  
+🎓 **Prime Minister Ehsaas Scholarship Recipient (2018–2022)**  
+📈 **Developed novel Empowerment & Well-Being Indexes** for South Punjab  
+
+---
+
+### 📫 Connect with Me
+
+📧 **Email:** [mehwishayesha631@gmail.com](mailto:mehwishayesha631@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/mehwishumar](https://linkedin.com/in/mehwishumar)  
+💻 **GitHub:** [github.com/Mehwish-data](https://github.com/Mehwish-data)
+
+---
+
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehwish-data&show_icons=true&theme=default" alt="Mehwish's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehwish-data&show_icons=true&theme=transparent" alt="Mehwish's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehwish-data&theme=transparent" alt="GitHub Streak Stats" />
 </p>
 
+---
 
-
+### 🌈 Fun Fact
+> “I see data not just as numbers — but as stories waiting to be told through the lens of AI and economics.”
 
 
 

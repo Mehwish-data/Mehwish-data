@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/mehwishumar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mehwish%20Umar-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/Mehwish-data" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Mehwish--data-black?style=for-the-badge&logo=github" />
-  </a>
 </p>
 
 ---

@@ -30,17 +30,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🧠 [**AI-Powered Multi-Assistant Bot**](https://github.com/Mehwish-data/AI_Mutli_Assistant_ChatBot) | RAG-based multi-source AI assistant with full AWS deployment | LangChain, FastAPI, Groq Cloud, Docker, AWS EC2 |
-| 🌿 [**AI Sustainability Agent**](https://github.com/Mehwish-data/AI-Sustainability-agent) | Voice-enabled agent estimating CO₂ emissions & giving sustainability advice | Python, Ollama, Whisper, Climatiq API, Pandas |
-| 🛍️ [**E-Commerce Churn Prediction**](https://github.com/Mehwish-data/E-Commerce-Churn-Analysis-) | ML pipeline predicting customer churn using behavioral data | Python, Scikit-learn, NumPy, Matplotlib, Seaborn |
-| 📰 [**Fake News Detection (NLP)**](https://github.com/Mehwish-data/Fake-news-detection) | Detects misinformation using NLP-based text classification | TF-IDF, NLTK, Scikit-learn, Regex, WordCloud |
-
----
-
 ### 📚 Research & Publications
 
 📘 **From Digital Work to Social Change:** Freelancing, Digital Skills & Empowerment in South Punjab  
@@ -75,16 +64,6 @@ Power BI | Tableau | Excel | STATA | SPSS
 
 ---
 
-### 🧾 Certifications
-
-- 🧩 **AI Voice Agents for Production – DeepLearning.AI (2025)**  
-- 🧩 **AI Agents in LangGraph – Coursera x DeepLearning.AI (2025)**  
-- 🧩 **Master LangChain with No-Code Tools – Flowise & LangFlow (2025)**  
-- 🧩 **Data Science & Analytics – HP LIFE Foundation (2025)**  
-- 🧩 **Workshop: Time Series & Panel Data Analysis using STATA (2025)**  
-
----
-
 ### 🏆 Achievements
 
 🏅 **Paper Presenter** – Pakistan Society of Development Economists (PSDE 2025)  
@@ -97,7 +76,6 @@ Power BI | Tableau | Excel | STATA | SPSS
 
 📧 **Email:** [mehwishayesha631@gmail.com](mailto:mehwishayesha631@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/mehwishumar](https://linkedin.com/in/mehwishumar)  
-💻 **GitHub:** [github.com/Mehwish-data](https://github.com/Mehwish-data)
 
 ---
 
